@@ -24,8 +24,8 @@ Designed for reliability, speed, and configurable risk management.
 ### 2. Clone the repository
 
 ``` bash
-git clone https://github.com/ivorn42/polymarket-copy-trading-bot.git
-cd polymarket-copy-trading-bot
+git clone https://github.com/ivorn42/polymarket-copy-trade-bot.git
+cd polymarket-copy-trade-bot
 ```
 
 ### 3. Create your `.env` file
